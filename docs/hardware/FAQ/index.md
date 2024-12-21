@@ -4,11 +4,11 @@
 ### Please note - these are mostly placeholders at this time; they will be filled in in due course. If you can help with text, or want to suggest other topics, please do so in the Discourse.
 
   * [Help! I need to speak to someone!](help-i-need-to-speak-to-someone.md)
-  * [AGIO](agio.md)
+  * AGIO
     * [UDP](udp.md)
     * [RTK/NTRIP corrections](rtk-ntrip-corrections.md)
     * [Serial/COM ports](serial-com-ports.md)
-    * [AgIO and AgOpenGPS - networking](agio-and-agopengps-networking.md)
+    * [AgIO and AgOpenGPS - networking](../networking/index.md)
   * AgOpenGPS
     * [Is AGIO running? AgIO?](is-agio-running-agio.md)
   * U-blox F9P
