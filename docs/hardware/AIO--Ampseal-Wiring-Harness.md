@@ -1,4 +1,4 @@
-For the actual pinout see [here](AIO-Board-Pinout)
+For the actual pinout see [here](AIO-Board-Pinout.md)
 
 A crimping tool: Yato YT-2255
 
@@ -17,7 +17,7 @@ For this we need:
 * Some braiding: https://www.aliexpress.com/item/33046800962.html (16mm will do)
 * Shrink tube: https://www.aliexpress.com/item/1005003700916035.html (16mm for braiding  + maybe 4 and 8mm)
 
-* Connector for the [wheel angle sensor](wheel-angle-sensor) of your choice take a look around at [this shop](https://www.aliexpress.com/store/5700126)
+* Connector for the [wheel angle sensor](wheel-angle-sensor.md) of your choice take a look around at [this shop](https://www.aliexpress.com/store/5700126)
 
 ## Wire
 Above cable uses YSLY-JZ cable that is heat and oil resistant
@@ -32,7 +32,7 @@ Please note that Hydraulic steering will require extra wires:
 Lock pin 2 wires + pressure sensor 2 wires + maybe dedicated 12V for the automotive relay.
 
 # Assembly
-Crimp and assemble according to the [Pinout](AIO-Board-Pinout)
+Crimp and assemble according to the [Pinout](AIO-Board-Pinout.md)
 ### AMPSEAL 23
 Here's the [official video](https://www.youtube.com/watch?v=uXTkm_XV2OY) and here's some [step by step video](https://www.youtube.com/watch?v=24bNFu7a9lc)
 Things to watch out for:

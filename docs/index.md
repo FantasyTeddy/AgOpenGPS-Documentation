@@ -15,7 +15,7 @@ There are 2 main places for AgOpenGPS - Program Software and Hardware with Firmw
 
 [AOG Downloadable video training](https://www.mediafire.com/folder/wwcvo7zhdogh1/Videos)
 
-[Change Log](ChangeLog)
+[Change Log](software/ChangeLog.md)
 
 ## Hardware:
 
@@ -29,4 +29,4 @@ There are 2 main places for AgOpenGPS - Program Software and Hardware with Firmw
 
 [Telegram AgOpenGPS International Group](https://t.me/agopengpsinternational)
 
-## [Frequently asked questions / problems & solutions](FAQ)
+## [Frequently asked questions / problems & solutions](software/FAQ.md)

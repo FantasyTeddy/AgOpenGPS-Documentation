@@ -9,7 +9,7 @@ Here are some Video's how to create your own PCB.
 
 [Creating PCB v2 (Darren Lobb)](https://www.youtube.com/watch?v=BXys4PYzAFQ)
 
-To get your own PCB, download the gerber and go to [jlpcb.com](jlpcb.com)
+To get your own PCB, download the gerber and go to [jlcpcb.com](https://jlcpcb.com)
 You can upload the complete zipfile to the site. After that you can order it and it will be send out to anywhere in the world. Minimum pieces is 5, so you got some spares if you accidentally destroy one.
 
 The zipfile also contains a BOM list (build of Material) that you can use at Digikey to order all the parts you need. You can also order it at different stores by using that list. 

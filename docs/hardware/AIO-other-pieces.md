@@ -1,10 +1,10 @@
 So you've ordered your AIO board but want to fully assemble it.
 
 The main pieces will likely be:
- * [Teensy 4.1 a.k.a the brain of the board](teensy-4.1)
- * [IMU for roll compensation](imu-inertial-measurement-unit)
- * [GNSS / GPS - ZED-F9P](gps-modules-standard-or-micro)
- * [Cytron MD13S driver](cytron-motor-driver)
+ * [Teensy 4.1 a.k.a the brain of the board](teensy-4.1.md)
+ * [IMU for roll compensation](imu-inertial-measurement-unit.md)
+ * [GNSS / GPS - ZED-F9P](gps-modules-standard-or-micro.md)
+ * [Cytron MD13S driver](cytron-motor-driver.md)
 
 You'll likely also need:
 * some standard 2.54mm header pins between the components and the board e.g.: [aliexpress](https://www.aliexpress.com/item/4001201576815.html) or [botland](https://botland.store/connectors-goldpin/20031-straight-goldpin-1x40-connector-with-254mm-pitch-black-10pcs-justpi-5904422329198.html) 

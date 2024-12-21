@@ -2,7 +2,7 @@
 
 Below, a database that will hopefully build up into a useful list of connectors. Note that links here are not endorsements, but samples where you might be able to buy, or find more information in order to help you find the right part at your favourite local dealer.
 
-There's also a handy list of potentially-printable connectors [here](Connector-Accessories), along with some accessories (eg caps, shells).
+There's also a handy list of potentially-printable connectors [here](Connector-Accessories.md), along with some accessories (eg caps, shells).
 
 | Description | Sample |
 |---|---|
