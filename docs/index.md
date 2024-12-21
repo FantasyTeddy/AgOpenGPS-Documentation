@@ -1,17 +1,32 @@
-# Welcome to MkDocs
+# Welcome to AgOpenGPS 
+There are 2 main places for AgOpenGPS - Program Software and Hardware with Firmware:
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Software: 
 
-## Commands
+[The Main Repository](https://github.com/farmerbriantee/AgOpenGPS)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[Download the Software](https://github.com/farmerbriantee/AgOpenGPS/releases)
 
-## Project layout
+[How to install and run AgOpenGPS](https://www.youtube.com/watch?v=bVo6HwYIdP4)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[Rate Control by David Cox](https://github.com/AgHardware/Rate_Control)
+
+[AOG Video Training](https://www.youtube.com/playlist?list=PL1N2N2XFHWW1fIDhb7koOa7hxH0LGppYc)
+
+[AOG Downloadable video training](https://www.mediafire.com/folder/wwcvo7zhdogh1/Videos)
+
+[Change Log](ChangeLog)
+
+## Hardware:
+
+[The Main Hardware and Firmware Repository](https://github.com/AgHardware/Boards)
+
+[Detailed Wiki and Information on Hardware and Firmware](https://github.com/AgHardware/Boards/wiki)
+
+## Discussion and Help:
+
+[AgOpenGPS Discourse Forum](https://discourse.agopengps.com/)
+
+[Telegram AgOpenGPS International Group](https://t.me/agopengpsinternational)
+
+## [Frequently asked questions / problems & solutions](FAQ)
