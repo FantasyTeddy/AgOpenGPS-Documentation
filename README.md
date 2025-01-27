@@ -4,7 +4,7 @@ The documentation for [AgOpenGPS](https://github.com/AgOpenGPS-Official/AgOpenGP
 [hardware](https://github.com/AgOpenGPS-Official/Boards) that is needed to setup autosteer
 for farming equipment.
 
-Link: https://agopengps-official.github.io/AgOpenGPS-Documentation/
+Link: https://docs.agopengps.com
 
 ## Building
 
