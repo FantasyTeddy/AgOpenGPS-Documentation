@@ -2,7 +2,7 @@
 
 8. Reading LED indicators
 
-![image](https://user-images.githubusercontent.com/20115439/213944954-36322959-94a9-42ad-9a4c-71f6e8018b41.png)
+![image](img/reading-leds.png)
 
 
 |Led     | Color |  Description  |

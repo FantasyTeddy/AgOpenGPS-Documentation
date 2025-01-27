@@ -9,7 +9,7 @@ There's a detailed guide on ethernet configuration [here](https://github.com/far
 
 If you are debugging in Wireshark, there's a work-in-progress protocol decoder available here: https://github.com/lansalot/AgOpenGPS-Tools/tree/main/Network%20Analysis
 
-![image](https://github.com/AgHardware/Boards/assets/9885921/933db429-d9c5-40d9-a2e1-5a245d91f1da)
+![image](img/wireshark-protocol-decoder.png)
 
 Just download and save in your Wireshark plugins folder (not any subfolders, eg 4.0). Please report any issues either on that AgOpenGPS-Tools repo, or to andyinv on the forums or Telegram.
 

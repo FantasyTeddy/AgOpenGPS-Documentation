@@ -25,9 +25,9 @@ Models to STAY AWAY FROM
 ## Charger for the tablet:
 Most tablets that come with USB-C require charging from 20V and require a 45-65W charger. As most of us has 12V only in the cab finding a charger can be tricky.
 These are the ones tested and working with Panasonic, *tho note that you can run Panasonic direct from battery using [these plugs](https://cpc.farnell.com/pro-power/ppw00029/lead-dc-power-2-5mm-plug-to-plug/dp/PW03428), no need for charger* :
-* ![image](https://user-images.githubusercontent.com/3919203/230923121-22670add-6ad3-4a60-9605-c304d6ef1b5a.png)
+* ![image](img/usb-charger.png)
  [https://www.aliexpress.com/item/1005004993549400.html](https://www.aliexpress.com/item/1005004993549400.html) 
-* ![image](https://user-images.githubusercontent.com/3919203/230923415-b4d5102b-8f4c-4614-98dd-75bdd36777ea.png)
+* ![image](img/12v-usb-charger.png)
  [https://www.aliexpress.com/item/1005003696634807.html](https://www.aliexpress.com/item/1005003696634807.html)
 * * https://www.amazon.co.uk/Panasonic-FZ-G1AABAXLM-FZ-G1AABAXRM-FZ-G1AABAB1M-FZ-G1AABGXLM/dp/B00IYV96KC
 * Baseus Superme TZCCZX-01 - 100W ~20 EUR

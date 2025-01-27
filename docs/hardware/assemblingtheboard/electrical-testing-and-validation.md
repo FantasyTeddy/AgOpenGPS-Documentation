@@ -29,11 +29,11 @@ Micro:
 Check for 3.3V and 5V on the circled pins, compare them to a grounding point. (New boards will have LED-s to assist)
 Except teensy it should be 3.3V
 
-![image](https://user-images.githubusercontent.com/3919203/231003229-4ca48c21-8d0f-48e3-a8be-016e98a53ea0.png)
+![image](img/testing-voltage.png)
 
 ADS pin should be 5V as well
 
-![image](https://user-images.githubusercontent.com/3919203/231003574-3b9e6834-d569-4e13-a6c7-f555826a5db0.png)
+![image](img/testing-voltage-ads.png)
 
 Standard:
 
@@ -55,7 +55,7 @@ Unplug the Teensy from the board whenever you send new code to it, but that mean
 ### Option 2 cut
 Cut the trace on the underside of the Teensy, so that way you have the ability to diagnose any Teensy issues over USB safely while the board is powered over 12V:
 
-![image](https://user-images.githubusercontent.com/9885921/213941911-b79ef7bb-3d83-43d6-b9ac-8480f8cb53ca.png)
+![image](img/teensy-cut-trace.png)
 
 The downside of that is you'll need to remake the joint if you want to power the Teensy _only_ over USB again.
 

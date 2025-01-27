@@ -6,7 +6,7 @@ https://www.cytron.io/p-13amp-6v-30v-dc-motor-driver
 
 Cytron make a few different types of motor driver - but the MD13S is the right size for the PCB and has the right requirements, so don't go "for one that sounds similar".
 
-![Cytron](https://user-images.githubusercontent.com/9885921/213874275-1b75e458-7275-41c1-a376-9065dbd8f662.png)
+![Cytron](img/cytron-md13s.png)
 
 Sample suppliers:
 

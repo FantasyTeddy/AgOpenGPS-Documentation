@@ -21,21 +21,21 @@ We use the JCLPCB service to manufacture our PCBs, but you can use another suppl
 
 1.- Click on [Order Now ](https://cart.jlcpcb.com/quote)to access the page to place the order, and that'll take you to a page that looks like this:
 
-![image (16)](https://user-images.githubusercontent.com/9885921/213873946-8be09685-7570-4467-a439-67afefc8f6ff.png)
+![image](img/jlcpcb-order.png)
 
 **Caution: notice that the blank page is offering a 2-layer board, but on uploading the gerber file, it should detect is as 4-layer!**
 
 These files are located in AgOpenGPS/Support/TeensyModules/Board and pick either your Micro or Std design. Inside each folder we will find three files that we are going to use, the ZIP file is your Gerber file, so pick that first:
 
-![image (4) (1)](https://user-images.githubusercontent.com/9885921/213873956-fd1bafb5-8370-43af-9b8c-97c9a8e1e3d2.png)
+![image](img/upload-gerber.png)
 
 It'll process for a bit, and you'll see a summary view:
 
-![image (5) (1)](https://user-images.githubusercontent.com/9885921/213873962-5f0dad1d-e479-4863-a9f6-e1018798280a.png)
+![image](img/jlcpcb-summary.png)
 
 Down to the bottom of the page, and slide the "PCB Assembly" switch over.
 
-![image (17)](https://user-images.githubusercontent.com/9885921/213873967-87bc7a26-0ae4-4da2-be78-08ba2cf67ee6.png)
+![image](img/jlcpcb-assembly.png)
 
 Here, you should select "assemble top side", and other important things are PCBA quantity, you can choose 5 full PCB (with SMD components soldered) or only 2 full PCB and 3 empty. If you choose Confirm Parts placement an JCLPCB engineer will correct your part placement and polarity (this action will need your confirmation).
 
@@ -43,21 +43,21 @@ Here, you should select "assemble top side", and other important things are PCBA
 
 Click Confirm when you're happy, and then add the BOM file and CPL file (they are in the same folder as the ZIP file - make sure you didn't accidentally move from the Standard to the Micro folder, or vice-versa!)
 
-![image (12)](https://user-images.githubusercontent.com/9885921/213873975-a921636d-bbf3-4735-acb2-2bad1892f06c.png)
+![image](img/jlcpcb-upload-bom.png)
 
-![image (10)](https://user-images.githubusercontent.com/9885921/213873982-538e60aa-c74c-4d48-9058-6d3dde945a88.png)
+![image](img/upload-bom.png)
 
 Now comes the fun part - it'll go and check with the JLCPCB inventory and see if any parts you need are missing. Here's a sample, it's likely yours will be different tho.
 
-![image (6) (2)](https://user-images.githubusercontent.com/9885921/213873995-9982976b-dcdc-4cbd-ade7-188b50318dab.png)
+![image](img/jlcpcb-parts-1.png)
 
-![image (20)](https://user-images.githubusercontent.com/9885921/213873999-f0725d5d-cdb9-4bef-9af9-f1c913d3ef51.png)
+![image](img/jlcpcb-parts-2.png)
 
-![image (9)](https://user-images.githubusercontent.com/9885921/213874003-2e551eec-2057-43e8-8213-8ba220c36dd6.png)
+![image](img/jlcpcb-parts-3.png)
 
 First off, starting from the bottom - it's expected that they can't supply some of the components. The SimpleRTK2B, the Cytron, the Teensy, various connectors etc, the BNO085 - they're all fine to omit and you can get them elsewhere. If you can find alternatives, now would be a good time to try that, but if not, just Save to Cart again and get the cool 3D rendered output.
 
-![image (7)](https://user-images.githubusercontent.com/9885921/213874006-06daba95-0efa-4018-809f-18264953dbcf.png)
+![image](img/jlcpcb-3d-render.png)
 
 ### Shortfall / Alternate parts
 

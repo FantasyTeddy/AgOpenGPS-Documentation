@@ -36,22 +36,22 @@ Adapter type NH40: https://www.aliexpress.com/item/1005006591353337.html
 
 You need to specify when ordering which steering boss you require (and let them know if you require additional ones). Pay attention to the aliexpress link, the "View more" bit will list all the adapter types. NOTE: this list below might be out of date as more models are added, so look for this chart on the aliexpress link!!
 
-![image](https://github.com/AgHardware/Boards/assets/9885921/9e000929-b631-4dd1-b1b3-9665cb1e5438)
+![image](img/aliexpress-view-more.png)
 
-![image](https://github.com/user-attachments/assets/c9ba058d-3aed-4e68-9a59-9022ea17b8cd)
+![image](img/keya-adapter-list.png)
 
 
 Also, there is a newer motor with 12-pin connection but as far as I can see, it doesn't offer much over the 7-pin one at this time, we'll update this document when it's available.
 
 Replacement connectors: https://www.aliexpress.com/item/1005002498869200.html
 
-![image](https://github.com/AgHardware/Boards/assets/9885921/88f86d0c-a8b0-4107-b5f6-7fd2fe30ac96)
+![image](img/keya-replacement-connector.png)
 
 Connections:
 
-![image](https://github.com/AgHardware/Boards/assets/9885921/dc7cf100-681c-48cd-af5f-a45423ea500d)
+![image](img/keya-connector.png)
 
-![image](https://github.com/AgHardware/Boards/assets/9885921/5236e1d7-6b0c-4b97-8d8d-6530fe4e86c8)
+![image](img/keya-connector-pinout.png)
 
 You’ll be powering 12V to pin 1, and GND to pin2 - and don’t power this through the AOG board! Put it on its own supply with a big huge “OFF!” switch for safety.
 
@@ -63,7 +63,7 @@ You can find my modified firmware [here](https://github.com/lansalot/AgOpenGPS_B
 
 # Motor types
 
-![image](https://github.com/AgHardware/Boards/assets/9885921/4bc353af-a30f-4344-bbc2-98ecb268e0a7)
+![image](img/keya-auto-steer-motor-types.png)
 
 # Cables
 

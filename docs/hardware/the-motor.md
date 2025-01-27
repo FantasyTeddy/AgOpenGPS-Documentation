@@ -9,13 +9,13 @@ Specs:  24V 600RPM 5.1kgcm torque
 
 https://www.phidgets.com/?tier=3&catid=19&pcid=16&prodid=993
 
-![Motor](https://user-images.githubusercontent.com/9885921/213874385-b721d918-7b86-4945-8783-d5c04c25bbe7.png)
+![Motor](img/phidgets-motor.png)
 
 Note that if you're using a 24V motor as above, you'll need a 12V-24V step-up converter, sample here.
 
 https://www.ebay.co.uk/itm/334688323208
 
-![24V converter](https://user-images.githubusercontent.com/9885921/213874396-499b65cf-2f9f-4eae-b396-0bc615981fca.png)
+![24V converter](img/step-up-converter.png)
 
 ## MFA 12V motor
 
@@ -34,7 +34,7 @@ Make sure the v2 AIO board has extra traces as this can easily eat 5-7 amperes a
 https://www.aliexpress.com/item/1005001644698564.html
 5.2 :1 ratio 12V 950RPM
 
-![image](https://github.com/AgHardware/Boards/assets/9885921/833efd67-4eff-41c7-809b-ca3fde9df40d)
+![image](img/aliexpress-12v-motor.png)
 
 ## Others
 We've seen all kind of 12V motors being used from drills to Opel Corsa C electric servo. Choice is yours.
@@ -50,14 +50,14 @@ STL for the MFA motors small gear: (don't use PLA for it go with PETG or TPU)
 https://discourse.agopengps.com/t/universal-fit-gear-system-with-quick-tach-motor-holder/6579/269 
 
 If you prefer steel then check out bricbric -s design here: https://cults3d.com/en/users/entropiemaximun/creations 
-![image](https://github.com/AgHardware/Boards/assets/9885921/37a8b9c3-069c-4d68-a998-9f63b5121b6c)
+![image](img/steel-motor-mount.png)
 
 * If you don't have a bender: https://cults3d.com/en/3d-model/tool/universal-clutch
 * If you have a bender: https://cults3d.com/en/3d-model/tool/universal-clutch-v2-bending-steel
 Forum post: https://discourse.agopengps.com/t/small-teeth-and-friction-universal-mecanism/9669
 
 There's a useful MF 76-77 mount here: https://www.thingiverse.com/thing:5427025
-![image](https://github.com/AgHardware/Boards/assets/9885921/2a0982e8-ba01-4e1e-9855-b713b051d9ff)
+![image](img/mf-76-77-mount.png)
 
 # Wiring the motor
 Use at least 0.75mm2 wires. You'll have a hard time putting a 1.5mm2 into the Ampseal connector. So likely 1mm2 is good enough.
@@ -83,6 +83,6 @@ Use the Lock pin which is a switched 12V output to trigger it. Disconnect one of
 
 This new AiO board has the option of connecting pwm2 to the cytron for the freewheeling mod.
 
-![image](https://user-images.githubusercontent.com/3919203/230942857-e37b0242-707e-44d6-9270-e240fcb3ef2c.png)
+![image](img/free-wheel-mod-v2.png)
 
 https://www.youtube.com/watch?v=v6l7rEM7Ldk

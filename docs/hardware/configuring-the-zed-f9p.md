@@ -19,7 +19,7 @@ First, get the firmware and configuration files [here](https://github.com/AgHard
 
 Unzip them, the 4 text files are the configuration you upload to the F9Ps, and the .bin file is the firmware.
 
-![image](https://user-images.githubusercontent.com/9885921/214947795-4cc9d3f1-3250-424b-8e01-f8081e4979c6.png)
+![image](img/f9p-configuration-files.png)
 
 ### U-Center
 Follow this [ArduSimple Guide](https://www.ardusimple.com/zed-f9p-firmware-update-with-simplertk2b/) (except step 1, you already have the firmware) on how to perform a firmware upgrade, for which you'll need [U-Center v22.07](https://content.u-blox.com/sites/default/files/2022-09/u-centersetup_v22.07.zip) installed on your PC. 
@@ -35,10 +35,10 @@ If you're using the **Standard F9Ps** that have the USB jack on, use the jack at
 
 On the board, and looking at them from the point of "antenna jack at the front", you'll have a LEFT and a RIGHT socket. Plug one of the Micro F9Ps in and And PLUG an antenna in, don't power up the F9P without one. Remember, Micros are powered by the board. It doesn't matter which port you use to flash the firmware/config, but don't get them mixed up afterwards. Note which is which.
 
-![image](https://user-images.githubusercontent.com/9885921/214949578-caf83759-d64d-4396-9396-72cfd26c75eb.png)
+![image](img/f9p-connections.png)
 
 Open U-Center, and connect to your F9P (there should only be one) and it will have picked a COM port number (this is why you do one at a time); In the top left menus, find that COM port and pick a speed of **460800**. 
-![image](https://user-images.githubusercontent.com/3919203/230736607-8b4e96d5-9598-43bb-8828-80949148346d.png)![image](https://user-images.githubusercontent.com/3919203/230736630-127451cd-0971-424a-b0cf-71a82730a1cb.png)
+![image](img/u-center-port.png)![image](img/u-center-baud.png)
 
 If you have multiple COM ports you might need to keep trying util it connects successfully to the GPS receiver.
 
@@ -53,7 +53,7 @@ Connect to your receiver.
 Tools -> Firmware Update
 
 Choose Baud Rate of 460,000
-![image](https://user-images.githubusercontent.com/3919203/230736761-5c6ea705-6823-426e-870f-bbd2a125434e.png)
+![image](img/u-center-firmware-update.png)
 
 Hit Go! at the bottom left wait a minute or two and if there's no error message you're good.
 
@@ -67,7 +67,7 @@ These GPS modules can be used for multiple purposes. There are some configuratio
 ## How to Configure?
 Open Tools, Receiver Configuration,
 
-![image](https://user-images.githubusercontent.com/9885921/214948280-8bdf6111-9430-42a5-8511-7680cfd1a41d.png)
+![image](img/u-center-menu-receiver-configuration.png)
 
 and pick your file 
 * For single: [1.32 SingleAntennaRover.txt](https://github.com/AgHardware/Boards/blob/main/Ublox%20F9P/1.32%20SingleAntennaRover.txt)
@@ -75,12 +75,12 @@ and pick your file
 
 Then click "Transfer File -> GNSS".
 
-![image](https://user-images.githubusercontent.com/9885921/214948493-64320218-4958-4892-96ac-1e922dfda53a.png)
+![image](img/u-center-transfer-file.png)
 
 Once that's done, go to Receiver -> Action -> Save Config and SAVE IT!
 Alternatively you can do View -> Messages View and SAVE IT! This will be the F9P that will end up in your left-hand socket.
 
-![image](https://user-images.githubusercontent.com/9885921/214702923-55c29366-3e19-4cdb-981a-40948fa9ed16.png)
+![image](img/u-center-save-config.png)
 
 For single board you'll all set. For Dual board: power the board down, disconnect USB and put the other one in, reconnect USB, power up the board.
 

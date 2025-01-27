@@ -4,7 +4,7 @@ The IMU's job is to assist with orientation, pitch and roll. It helps immensely 
 
 The BNO085 is the one to go for - no other is as good. The Adafruit is popular, but if you look at any kind of alternative, the pins have to be in the same configuration - so play it safe and stick with this. These can be hard to find, so watch the Discourse or Telegram channels as helpful members often post when they see stock at $VENDOR.
 
-![image (18)](https://user-images.githubusercontent.com/9885921/213874341-ba9b40b7-0b86-4cf8-af6b-5ac15f719baa.png)
+![image](img/bno085.png)
 
  * https://www.adafruit.com/product/4754
  * [digikey](https://www.digikey.fr/fr/products/detail/adafruit-industries-llc/4754/13426653)

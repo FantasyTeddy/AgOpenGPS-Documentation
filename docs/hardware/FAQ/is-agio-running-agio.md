@@ -1,6 +1,6 @@
 If you get this message:
 
-![image](https://user-images.githubusercontent.com/9885921/225019997-4a3d1441-5630-4f04-a458-075665815a3c.png)
+![image](img/agio-not-running.png)
 
 It means one of the following:
 * AGIO isn't running - ensure it is started by pressing the green button next to the arrow

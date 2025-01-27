@@ -31,8 +31,8 @@ Please note that ground pins of 4,21,23 are common and shared, thus they can be 
 |NC         | 19 | NC |
 
 
-![image (19)](https://user-images.githubusercontent.com/9885921/213875244-f9fd5e39-307e-45f7-8bf9-f9dea7f83627.png)
+![image](img/ampseal-connector-pinout.png)
 
 example for motor with external freewheel mod:
-![image](https://github.com/AgHardware/Boards/assets/9885921/7f6cb7c2-dc77-4e91-b723-3f6c541b03dc)
+![image](img/ampseal-connector-wiring-diagram.png)
 

@@ -14,7 +14,7 @@ You'll likely also need:
 * Ampseal 23 board connector: https://www.aliexpress.com/item/10000383252937.html
 * Standard GPS module requires a 30cm extender as well: https://www.aliexpress.com/item/1005003193091912.html (No 13. 30cm at the time of writing but compare it to the picture.)
 
-![image](https://user-images.githubusercontent.com/3919203/230990070-67079464-bbf4-49b7-8d3c-638d96085ce6.png)
+![image](img/coax-extension.png)
 
 * A crimping tool: Yato YT-2255
 
