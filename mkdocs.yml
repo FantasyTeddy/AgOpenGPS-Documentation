@@ -3,7 +3,7 @@ site_name: AgOpenGPS Documentation
 nav:
   - Home: index.md
   - Software:
-    - What is AgOpenGPS?: software/01.-What-is-AgOpenGPS?.md
+    - What is AgOpenGPS?: software/01.-What-is-AgOpenGPS.md
     - Install AgOpenGPS and AgIO: software/02.-Install-AgOpenGPS-and-AgIO.md
     - AgIO Orientation: software/03.-AgIO-Orientation.md
     - AgOpenGPS Orientation: software/04.-AgOpenGPS-Orientation.md
