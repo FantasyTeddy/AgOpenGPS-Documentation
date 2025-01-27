@@ -9,6 +9,7 @@ There's also a handy list of potentially-printable connectors [here](Connector-A
 |**2-pin**||
 |![image](https://github.com/AgHardware/Boards/assets/9885921/d4ebd059-7a20-4b01-96b8-b20fb592492e)|Part Number: Deutsch/Durite 001142<br>Typical usage: steering valves on Case/NH<br>https://webshop.durite.co.uk/itm/Deutsch-Connectors/2-Way-Female-Deutsch-DT-Series-Connector/001142|
 |![image](https://github.com/AgHardware/Boards/assets/9885921/f5c7828f-ec0c-413a-b501-9d726d6ad758)|Part Number: Delphi 12162193<br>Typical usage: steering valves on John Deere<br>https://mou.sr/3IsiF3L|
+|![image](https://github.com/user-attachments/assets/824f794f-5689-41bc-a6de-165f96feb27b)|Part number: TE 282189-1 and 106462-1<br/>JPT 2-pin connectors<br/>https://www.amazon.co.uk/Sealed-Waterproof-Female-Connector-Prewired/dp/B0DPL3DRDV/ref=sr_1_6?sr=8-6|
 |**3-pin**||
 |![image](https://github.com/AgHardware/Boards/assets/9885921/f6a04ce2-6942-49e1-9d9f-00c9e0b79004)|Part Number: try "3 pin tractor plug"<br>Typical usage: powering your boards!<br>https://www.amazon.co.uk/APUK-Tractor-Implement-Compatible-Amazone/dp/B07MXNW193<br>https://fr.aliexpress.com/item/1005003772953929.html|
 |![image](https://github.com/AgHardware/Boards/assets/9885921/be0d4744-ebe6-4135-a500-e0d542f2acee)|Part Number: TE Connectivity 344273-1<br>Typical usage: Case/NH WAS<br>https://www.aliexpress.com/item/10000352442786.html|

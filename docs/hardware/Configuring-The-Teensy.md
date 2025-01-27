@@ -5,7 +5,7 @@
 
 Go [here](https://github.com/lansalot/AOGConfigOMatic/releases) and check out this AOG Teensy flashing tool, that will provide the firmware and everything for you. All you should have to do is click two buttons. It provides a simple way to pick and choose firmwares for you, and could save you having to look through folders for the correct one for your use case.
 
-![image](https://github.com/AgHardware/Boards/assets/9885921/1d8a397b-9668-412e-aed7-d49d8ef4ac7f)
+![image](https://github.com/AgOpenGPS-Official/Boards/assets/9885921/1d8a397b-9668-412e-aed7-d49d8ef4ac7f)
 
 It will also configure the ublox F9P for you, so give it a try!
 
@@ -16,19 +16,19 @@ It will also configure the ublox F9P for you, so give it a try!
 Download the hex file (this is the compiled software) and the program to load it to the Teensy, from the repository:
 https://github.com/AgHardware/Boards/tree/main/TeensyModules/AIO%20Micro%20v4/Firmware
 
-![image](https://github.com/AgHardware/Boards/assets/9885921/5c892554-5410-4f25-9a32-9b318344081c)
+![image](https://github.com/AgOpenGPS-Official/Boards/assets/9885921/5c892554-5410-4f25-9a32-9b318344081c)
 
 Run the TeensyLoader app:
 
-![image](https://github.com/AgHardware/Boards/assets/9885921/d3c70a15-712f-4f37-b6f8-fd4d873ee2f2)
+![image](https://github.com/AgOpenGPS-Official/Boards/assets/9885921/d3c70a15-712f-4f37-b6f8-fd4d873ee2f2)
 
 and then select File, Open Hex, and open the hex file you downloaded.
 
-![image](https://github.com/AgHardware/Boards/assets/9885921/fa8452de-d900-4def-aa89-352c5e9908c7)
+![image](https://github.com/AgOpenGPS-Official/Boards/assets/9885921/fa8452de-d900-4def-aa89-352c5e9908c7)
 
 Now would be a great time to plug the Teensy in - if this is the first time this Teensy has been connected, it might well install some drivers, so give it a moment to settle. When all is calm, press the green button to flash it. You might have to press the white button on the Teensy too if nothing happens, to allow the Teensy to pull the image down (generally, you only have to do this the first time you flash it tho).
 
-![image](https://github.com/AgHardware/Boards/assets/9885921/9aa4d8cb-4299-46d4-87db-62a30ad1e273)
+![image](https://github.com/AgOpenGPS-Official/Boards/assets/9885921/9aa4d8cb-4299-46d4-87db-62a30ad1e273)
 
 Takes just a moment, then you're done!
 
@@ -37,7 +37,7 @@ Takes just a moment, then you're done!
 
 ### But, some people like a challenge, so here's the hard way - and before you go any further, don't plug the Teensy in just yet!
 
-[Retrieve the code](https://github.com/AgHardware/Boards/archive/refs/heads/main.zip) and unzip it.
+[Retrieve the code](https://github.com/AgOpenGPS-Official/Boards/archive/refs/heads/main.zip) and unzip it.
 
 ### NOTE: it may be version 5.5, 5.7, 5.7.1 whatever is in the support folder. Go with the latest that's there!
 

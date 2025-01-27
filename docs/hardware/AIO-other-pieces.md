@@ -12,8 +12,10 @@ You'll likely also need:
 * Teensy requires 2x3 header that's size 2mm: [digikey](https://www.digikey.fr/fr/products/detail/te-connectivity-amp-connectors/2314820-6/10494751) or [botland](https://botland.store/connectors-goldpin/18241-female-socket-2x3-raster-2mm-straight-5pcs-5904422370695.html)
 * Between Teensy and the Board you need the 2x3 connector: [digikey](https://www.digikey.fr/fr/products/detail/gct/BF050-06-A-B-0400-0300-L-G/16396911)
 * Ampseal 23 board connector: https://www.aliexpress.com/item/10000383252937.html
-* Standard GPS module requires a 30cm extender as well: https://www.aliexpress.com/item/1005003193091912.html (No 13. 30cm at the time of writing but compare it to the picture.) 
+* Standard GPS module requires a 30cm extender as well: https://www.aliexpress.com/item/1005003193091912.html (No 13. 30cm at the time of writing but compare it to the picture.)
+
 ![image](https://user-images.githubusercontent.com/3919203/230990070-67079464-bbf4-49b7-8d3c-638d96085ce6.png)
+
 * A crimping tool: Yato YT-2255
 
 Enclosure: 3D print / electrical box / Hammond enclosure. Designs are available in the repo.

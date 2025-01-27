@@ -14,6 +14,7 @@ nav:
     - ChangeLog: software/ChangeLog.md
     - FAQ: software/FAQ.md
   - Hardware:
+    - '"My tractor has X, how to steer it"': hardware/kits.md
     - Hardware that's needed: hardware/tl-dr-cut-to-the-chase-what-do-i-buy.md
     - Boards - All-In-One:
       - All-In-One Board versions and how to order:
@@ -30,7 +31,7 @@ nav:
       - Ampseal-Wiring-Harness example: hardware/AIO--Ampseal-Wiring-Harness.md
     - Boards - Others:
       - Brians old board: hardware/02-Build-Version-2-Steer-Board.md
-      - Legacy solutions: https://github.com/AgHardware/Boards/tree/main/ArduinoModules
+      - Legacy solutions: https://github.com/AgOpenGPS-Official/Boards/tree/main/ArduinoModules
       - Enclosures: hardware/Enclosures.md
     - Implement Boards:
       - Machine Board for relay control: hardware/Machine-Board.md

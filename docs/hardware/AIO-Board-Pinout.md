@@ -12,9 +12,9 @@ Please note that ground pins of 4,21,23 are common and shared, thus they can be 
 |Steerswitch| 8 | Can be used with a switch or a button to have a physical button to enable / disable autosteer. Basically it allows to disable the steering. Has to be connected to ground. (4,21,23) |
 |Workswitch | 9 | Can be used to turn sections on / off. Has to be connected to ground. (4,21,23) |
 |Remote/Pressure|10| Used for pressure sensor in valves or encoder in motor. Ground: (4,21,23)|
-|Left       | 5 | Power output for motor / valves |
+|Left       | 5 | Power output for motor / valves (Danfoss Signal) |
 |Right/Lock | 6 | Power output for motor / valves (Lock was only available on AIO boards v2.5 and lower since V4 board lock is no more present)  |
-|Lock       | 7 | Switched 12V output when autosteer is enabled. Can be used to activate the hydraulic valve through a relay.|
+|Lock       | 7 | Switched 12V output when autosteer is enabled. Can be used to activate the hydraulic valve through a relay or power Danfoss valve.|
 |CanH1      | 16 | Can High for channel 1 |
 |CanL1      | 17 | Can Low for channel 1 |
 |Speed +    | 14 | Output speed pulse + |
